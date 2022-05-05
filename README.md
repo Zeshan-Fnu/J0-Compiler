@@ -1,4 +1,4 @@
-# Language-Translator
+# J0 Compiler
 This program takes as input, J0 source code in a text file and produces *86 assembly code.
 The assembly code works with NASM.
 The Lexical Analyzer uses Finite State Automata.
